@@ -20,7 +20,7 @@
 	<properties>
 		<java.version>13</java.version>
 		<spring.boot.version>2.3.0.RELEASE</spring.boot.version>
-		<h2.version>1.4.199</h2.version>
+		<h2.version>2.1.210</h2.version>
 		<google.guava.version>29.0-jre</google.guava.version>
 		<swagger.version>1.2.32</swagger.version>
 		<mockito.version>3.3.3</mockito.version>
